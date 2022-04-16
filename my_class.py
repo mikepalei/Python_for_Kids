@@ -5,6 +5,3 @@ class MyClass():
 
     def do_something(self):
         print(self.height)
-
-    def do_something_2(self):
-        print(self.weight)
