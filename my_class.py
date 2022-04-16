@@ -8,3 +8,6 @@ class MyClass():
 
     def do_something_2(self):
         print(self.weight)
+
+    def do_something_3(self):
+        print("aaaa")
