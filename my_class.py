@@ -11,3 +11,6 @@ class MyClass():
 
     def do_something_3(self):
         print("aaaa")
+
+    def do_something_4(self):
+        print("bbb")
